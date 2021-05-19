@@ -1,0 +1,2 @@
+module school.management.system {
+}
